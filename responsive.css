@@ -611,7 +611,7 @@
         
     }
 }
-@media(max-width:500px) {
+@media(max-width:550px) {
     body{
         padding:0px;
         margin:0px;
@@ -1228,6 +1228,236 @@
         display: block;
         justify-content: center;
         margin-left: 60px;
+        min-height: 500px;
+    }
+    .card{
+        height: 220px;
+        width: 190px;
+        padding: 17px 25px;
+        background-color:#191919;
+        border-radius: 20px;
+        margin-bottom: 10px;
+        position: relative;
+        overflow: hidden;
+        text-align: center;
+    }
+    .card i{
+        font-size: 25px;
+        margin: 10px 0px;
+    }
+    h5{
+        color: #fff;
+        font-size: 18px;
+        margin-bottom: 10px;
+    
+    }
+    .pra p{
+        color: #fcfc;
+        font-size: 10px;
+        line-height: 20px;
+        margin-bottom: 18px;
+    }
+    .card .button{
+        padding: 5px 17px;
+    }
+    .card .button:hover{
+        transition: .4s;
+        transform: scale(1.1);
+    }
+    .contact-me{
+        height: 180px;
+    }
+    .contact-me p{
+        font-size: 15px;
+        margin-bottom: 30px;
+    }
+    .contact-me .button-two{
+        padding: 5px 20px;
+
+    }
+    .contact-me .button-two:hover{
+        transition: .4s;
+        transform: scale(1.1);
+    }
+    footer{
+        height: 300px;
+    }
+    footer p:nth-child(1){
+        font-size: 20px;
+    }
+    footer p:nth-child(2){
+        font-size: 10px;
+        width: 350px;
+        line-height: 20px;
+    }
+    .socials a{
+        width: 30px;
+        height: 30px;
+        margin: 20px 15px;
+        font-size: 15px;
+    }
+    .end{
+        bottom: 30px;
+        font-size: 10px;
+        margin-top: 5px;
+    }
+}
+@media(max-width:375px) {
+    body{
+        padding:0px;
+        margin:0px;
+        box-sizing: border-box;
+        font-family: 'Poppins', sans-serif;
+    
+    }
+    nav{
+        display:flex;
+        align-items: center;
+        word-spacing: 1px;
+        padding: 35px;
+        margin: 20px;
+        
+    }
+    h2{
+        color: #fff;
+        font-weight: 400;
+        font-size: 40px;
+        text-transform:capitalize;
+        cursor: pointer;
+        margin-left: -20px;
+
+    }
+    span{
+        color: #f9004d;
+    
+    }
+    .nav-list{
+        list-style: none;
+        display: flex;
+        visibility: hidden;
+    }
+    nav a i{
+        visibility:visible;
+        margin-left: -450px;
+        padding: 5px;
+        border-radius: 5px;
+    }
+    .side-nav{
+        visibility: visible;
+        width: 70%;
+        height: 50%;
+        background-color: #161414;
+        z-index: 1;
+        margin-top: -100px;
+        float: right;
+        position:relative;
+    }
+    .side-links{
+        margin-top: 10%;
+    }
+    .side-nav a{
+        display: block;
+        text-decoration: none;
+        text-align: center;
+        color: #fff;
+        padding-top: 20px;
+
+    }
+    .side-nav a:hover{
+        color: #f9004d;
+        transform: scale(1.5);
+        transition: .4s;
+    }
+    h1{
+        color: white;
+        margin:20px 0px 20px;
+        font-size: 50px;
+    }
+    h3{
+        color: #fff;
+        font-size: 20px;
+        margin-bottom: 50px;
+    }
+    h4{
+        color: #fcfc;
+        letter-spacing: 2px;
+        font-size: 20px;
+    }
+    .newslatter form{
+        width:100px;
+        max-width: 100%;
+        position: relative;
+    }
+    .newslatter form input:first-child{
+        padding: 9px 130px 9px 15px;
+    }
+    .newslatter form input:last-child{
+        padding: 5px 30px;
+    }
+    .main img{
+        width: 250px;
+        height: auto;
+        align-items: center;
+        margin-left: 47px;
+    }
+    .about{
+        width: 100%;
+        padding:50px 0px;
+        background-color: #191919;
+    
+    }
+    .main{
+        width:400px;
+        max-width: 95%;
+        margin: 0 auto;
+        display:block;
+        
+    }
+    .about-text h2{
+        font-size: 50px;
+        margin-bottom: 5px;
+        margin-left: 10px;
+    }
+    .about-text h5{
+        font-size: 18px;
+        margin-bottom: 10px;
+        margin-left: 10px;
+    }
+    .about-text p{
+        line-height: 20px;
+        font-size: 10px;
+        margin-left: 10px;
+    }
+    .about-text{
+        width: 300px;
+    }
+    button{
+        padding: 9px 25px;
+        margin-left: 10px;
+    }
+    button:hover{
+        transition: .4s;
+        background-color: transparent;
+        border: 2px solid #f9004d;
+        cursor: pointer;
+        transform: scale(1.1);
+    }
+    .service{
+        background-color: #101010;
+        width: 100%;
+        height: 920px;
+        margin-top: -32px;
+    
+    }
+    .title h2{
+        font-size: 35px;
+        width: 400px;
+        
+    }
+    .box{
+        display: block;
+        justify-content: center;
+        margin-left: 47px;
         min-height: 500px;
     }
     .card{
