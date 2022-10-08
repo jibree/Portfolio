@@ -5,7 +5,7 @@
         box-sizing: border-box;
         font-family: 'Poppins', sans-serif;
         overflow-x: hidden;
-        width:fit-content;
+        width:auto;
     
     }
     nav{
@@ -198,7 +198,7 @@
         box-sizing: border-box;
         font-family: 'Poppins', sans-serif;
         overflow-x: hidden;
-        width:fit-content;
+        width:auto;
     
     }
     nav{
@@ -392,7 +392,7 @@
         box-sizing: border-box;
         font-family: 'Poppins', sans-serif;
         overflow-x: hidden;
-        width:fit-content;
+        width:auto;
     
     }
     nav{
@@ -423,7 +423,7 @@
     }
     nav a i{
         visibility:visible;
-        margin-left: -100px;
+        margin-left: -150px;
         padding: 5px;
         border-radius: 5px;
     }
@@ -541,7 +541,7 @@
     .box{
         display: block;
         justify-content: center;
-        margin-left: 220px;
+        margin-left: 190px;
         min-height: 500px;
     }
     .card{
@@ -616,14 +616,14 @@
         
     }
 }
-@media(max-width:550px) {
+@media(max-width:640px) {
     body{
         padding:0px;
         margin:0px;
         box-sizing: border-box;
         font-family: 'Poppins', sans-serif;
         overflow-x: hidden;
-        width:fit-content;
+        width:auto;
     
     }
     nav{
@@ -654,7 +654,7 @@
     }
     nav a i{
         visibility:visible;
-        margin-left: -80px;
+        margin-left: -270px;
         padding: 5px;
         border-radius: 5px;
     }
@@ -731,24 +731,24 @@
     .about-text h2{
         font-size: 50px;
         margin-bottom: 5px;
-        margin-left: -100px;
+        margin-left: -30px;
     }
     .about-text h5{
         font-size: 18px;
         margin-bottom: 10px;
-        margin-left: -100px;
+        margin-left: -30px;
     }
     .about-text p{
         line-height: 20px;
         font-size: 10px;
-        margin-left: -100px;
+        margin-left: -30px;
     }
     .about-text{
         width: 400px;
     }
     button{
         padding: 9px 25px;
-        margin-left: -100px;
+        margin-left: -30px;
     }
     button:hover{
         transition: .4s;
@@ -772,7 +772,7 @@
     .box{
         display: block;
         justify-content: center;
-        margin-left: 260px;
+        margin-left: 145px;
         min-height: 500px;
     }
     .card{
@@ -848,14 +848,14 @@
     }
 
 }
-@media(max-width:450px) {
+@media(max-width:516px) {
     body{
         padding:0px;
         margin:0px;
         box-sizing: border-box;
         font-family: 'Poppins', sans-serif;
         overflow-x: hidden;
-        width:fit-content;
+        width:auto;
     
     }
     nav{
@@ -886,7 +886,7 @@
     }
     nav a i{
         visibility:visible;
-        margin-left: -70px;
+        margin-left: -340px;
         padding: 5px;
         border-radius: 5px;
     }
@@ -963,24 +963,24 @@
     .about-text h2{
         font-size: 50px;
         margin-bottom: 5px;
-        margin-left: -100px;
+        margin-left: -10px;
     }
     .about-text h5{
         font-size: 18px;
         margin-bottom: 10px;
-        margin-left: -100px;
+        margin-left: -10px;
     }
     .about-text p{
         line-height: 20px;
         font-size: 10px;
-        margin-left: -100px;
+        margin-left: -10px;
     }
     .about-text{
         width: 300px;
     }
     button{
         padding: 9px 25px;
-        margin-left: -100px;
+        margin-left: -10px;
     }
     button:hover{
         transition: .4s;
@@ -1004,7 +1004,7 @@
     .box{
         display: block;
         justify-content: center;
-        margin-left: 250px;
+        margin-left: 100px;
         min-height: 500px;
     }
     .card{
@@ -1079,14 +1079,14 @@
         margin-top: 5px;
     }
 }
-@media(max-width:400px){
+@media(max-width:450px){
     body{
         padding:0px;
         margin:0px;
         box-sizing: border-box;
         font-family: 'Poppins', sans-serif;
         overflow-x: hidden;
-        width:fit-content;
+        width:auto;
     
     }
     nav{
@@ -1117,7 +1117,7 @@
     }
     nav a i{
         visibility:visible;
-        margin-left: -60px;
+        margin-left: -400px;
         padding: 5px;
         border-radius: 5px;
     }
@@ -1195,24 +1195,24 @@
     .about-text h2{
         font-size: 50px;
         margin-bottom: 5px;
-        margin-left: -100px;
+        margin-left: 5px;
     }
     .about-text h5{
         font-size: 18px;
         margin-bottom: 10px;
-        margin-left: -100px;
+        margin-left: 5px;
     }
     .about-text p{
         line-height: 20px;
         font-size: 10px;
-        margin-left: -100px;
+        margin-left: 5px;
     }
     .about-text{
         width: 300px;
     }
     button{
         padding: 9px 25px;
-        margin-left: -100px;
+        margin-left: 5px;
     }
     button:hover{
         transition: .4s;
@@ -1236,7 +1236,7 @@
     .box{
         display: block;
         justify-content: center;
-        margin-left: 250px;
+        margin-left: 70px;
         min-height: 500px;
     }
     .card{
@@ -1311,14 +1311,14 @@
         margin-top: 5px;
     }
 }
-@media(max-width:375px) {
+@media(max-width:380px) {
     body{
         padding:0px;
         margin:0px;
         box-sizing: border-box;
         font-family: 'Poppins', sans-serif;
         overflow-x: hidden;
-        width:fit-content;
+        width:auto;
     
     }
     nav{
@@ -1349,7 +1349,7 @@
     }
     nav a i{
         visibility:visible;
-        margin-left: -50px;
+        margin-left: -430px;
         padding: 5px;
         border-radius: 5px;
     }
@@ -1395,7 +1395,7 @@
         font-size: 20px;
     }
     .newslatter form{
-        width:200px;
+        width:120px;
         max-width: 100%;
         position: relative;
     }
@@ -1427,24 +1427,24 @@
     .about-text h2{
         font-size: 50px;
         margin-bottom: 5px;
-        margin-left: -100px;
+        margin-left: 10px;
     }
     .about-text h5{
         font-size: 18px;
         margin-bottom: 10px;
-        margin-left: -100px;
+        margin-left: 10px;
     }
     .about-text p{
         line-height: 20px;
         font-size: 10px;
-        margin-left: -100px;
+        margin-left: 10px;
     }
     .about-text{
         width: 300px;
     }
     button{
         padding: 9px 25px;
-        margin-left: -100px;
+        margin-left: 10px;
     }
     button:hover{
         transition: .4s;
@@ -1468,7 +1468,7 @@
     .box{
         display: block;
         justify-content: center;
-        margin-left: 250px;
+        margin-left: 60px;
         min-height: 500px;
     }
     .card{
