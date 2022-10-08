@@ -5,7 +5,7 @@
         box-sizing: border-box;
         font-family: 'Poppins', sans-serif;
         overflow-x: hidden;
-        width:auto;
+        width:1170px;
     
     }
     nav{
@@ -198,7 +198,8 @@
         box-sizing: border-box;
         font-family: 'Poppins', sans-serif;
         overflow-x: hidden;
-        width:auto;
+        max-width: 900px;
+        min-width: 751px;
     
     }
     nav{
@@ -392,7 +393,8 @@
         box-sizing: border-box;
         font-family: 'Poppins', sans-serif;
         overflow-x: hidden;
-        width:auto;
+        max-width: 750px;
+        min-width: 641px;
     
     }
     nav{
@@ -623,7 +625,8 @@
         box-sizing: border-box;
         font-family: 'Poppins', sans-serif;
         overflow-x: hidden;
-        width:auto;
+        max-width: 640px;
+        min-width: 517px;
     
     }
     nav{
@@ -855,7 +858,8 @@
         box-sizing: border-box;
         font-family: 'Poppins', sans-serif;
         overflow-x: hidden;
-        width:auto;
+        max-width: 516px;
+        min-width: 451px;
     
     }
     nav{
@@ -1086,7 +1090,8 @@
         box-sizing: border-box;
         font-family: 'Poppins', sans-serif;
         overflow-x: hidden;
-        width:auto;
+        max-width: 450px;
+        min-width: 381px;
     
     }
     nav{
@@ -1318,7 +1323,7 @@
         box-sizing: border-box;
         font-family: 'Poppins', sans-serif;
         overflow-x: hidden;
-        width:auto;
+        max-width: 380px;
     
     }
     nav{
